@@ -1,0 +1,5 @@
+[project-build]
+command=true
+
+[project-run]
+command=python app.py
